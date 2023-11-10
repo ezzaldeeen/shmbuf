@@ -1,4 +1,4 @@
-# shmbuf - Shared Memory Circular Buffer in C
+# shmbuf - Shared Memory Circular Buffer
 
 ## Overview
 
